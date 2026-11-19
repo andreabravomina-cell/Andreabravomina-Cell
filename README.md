@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Juan</h1>
-<h3 align="center">A passionate Software and DevOps Engineer, Helper, Bilingual and Coder</h3>
+<h1 align="center">Hi 👋, I'm Paula Bravo</h1>
+<h3 align="center">Soy estudiante de Servicios Informáticos</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandgo&label=Profile%20views&color=0e75b6&style=flat" alt="juandgo" /> </p>
 
-**I'm a fullstack software developer engineer with solid experience in designing, developing, and maintaining IT solutions that optimize processes and drive technological innovation. With a strong command of programming, systems architecture, and an advanced understanding of emerging technologies, I specialize in creating scalable and sustainable solutions tailored to meet business needs.**
+**Soy estudiante de Servicios Informáticos, interesada en la tecnología, la programación y la atención de usarlo. Tengo algo de conocimento básico en desarrollo y soporte técnico; y estoy aprendiendo temas nuevos para crecer en mi profesión.
+Soy responsable, comprometida y con disposición para aprender para adquirir nuevas experiencias que constribuyan a mi crecimiento personal.**
 
 -----
 
-:computer: **Software Engineer**  
-:eyeglasses: **Hardcore Geek (is geek still used?)**  
-:oncoming_automobile: **SpaceX, technology, and simulator fan**  
 
 ---
 
